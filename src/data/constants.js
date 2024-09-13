@@ -36,31 +36,17 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
-      {
-        name: "Bootstrap",
-        image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
       
     ],
   },
   {
     title: "Backend",
     skills: [
-      {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
-      },
       
       {
-        name: "MySQL",
+        name: "SQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+          "https://habrastorage.org/webt/xc/y-/bu/xcy-buybcop-lnllkaliablk5zm.png",
       },
       {
         name: "Java",
